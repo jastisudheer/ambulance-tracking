@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ambulance-tracking/static/css/main.bd8212b1.css",
+    "main.js": "/ambulance-tracking/static/js/main.f93f6258.js",
+    "index.html": "/ambulance-tracking/index.html",
+    "main.bd8212b1.css.map": "/ambulance-tracking/static/css/main.bd8212b1.css.map",
+    "main.f93f6258.js.map": "/ambulance-tracking/static/js/main.f93f6258.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd8212b1.css",
+    "static/js/main.f93f6258.js"
+  ]
+}
